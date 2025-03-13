@@ -106,7 +106,6 @@ Overall, API security and web application security are equally important and req
 
 ### 2. What is API Security
 API security refers to the measures taken to protect an Application Programming Interface (API) from unauthorized access, modification, and exploitation. APIs are a set of rules and protocols that allow various software applications to interact with each other. Therefore, they need to be secure to ensure that only authorized parties have access to them.
-
 **API security can be ensured through the following measures:**
 
 1. Encryption: This involves the use of encryption techniques to protect the data being transmitted between API endpoints. For example, HTTPS (HyperText Transfer Protocol Secure) is commonly used for secure data transmission.
