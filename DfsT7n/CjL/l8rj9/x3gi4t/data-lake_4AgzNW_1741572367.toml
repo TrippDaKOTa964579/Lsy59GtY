@@ -11,4 +11,3 @@ title = "gitleaks config"
 [allowlist]
     description = "Allowlisted files"
     files = [ '''^\.?gitleaks.toml$''', '''(.*?)(jpg|gif|doc|pdf|bin)$''', '''(go.mod|go.sum)$''']
-
