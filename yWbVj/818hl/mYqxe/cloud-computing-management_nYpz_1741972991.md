@@ -64,7 +64,6 @@ Section 2 – Scope.
 	
           3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 Section 3 – License Conditions.
-
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 	
      a.	Attribution.
