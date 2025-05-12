@@ -1,5 +1,4 @@
 # Contributing
-
 Here are some guidelines that should help to start contributing to the project.
 
 - [Submitting pull Requests](https://doc.traefik.io/traefik/contributing/submitting-pull-requests/)
