@@ -8,7 +8,6 @@ GCC = gcc -std=c99
 gcv2hocr: main.c
 	$(GCC) -o $@ $<
 
-clean:
 	$(RM) gcv2hocr
 
 install: gcv2hocr
