@@ -5,7 +5,6 @@
   "includeCommitMessage": true,
   "files": [
     {
-      "friendlyName": "Main bundles",
       "path": "./**/dist-integration/**/main{-,.}<hash>.js",
       "maxPercentIncrease": 1
     },
