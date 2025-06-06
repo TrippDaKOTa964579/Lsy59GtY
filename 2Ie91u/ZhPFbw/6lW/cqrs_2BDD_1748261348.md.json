@@ -3,7 +3,6 @@
   "subProject": "Integration Projects",
   "defaultCompression": "none",
   "includeCommitMessage": true,
-  "files": [
     {
       "path": "./**/dist-integration/**/main{-,.}<hash>.js",
       "maxPercentIncrease": 1
